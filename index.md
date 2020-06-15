@@ -6,6 +6,6 @@
   </head>
   <body>
     <p class="centre_text">Welcome to the home page of the school coding club!</p>
-    <p class="projects">add /firstproject to go to the first project</p>
+    <a href="/firstproject" class="projects">.firstproject</a>
   </body>
 </html>
